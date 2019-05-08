@@ -1,0 +1,22 @@
+1) List Available Items
+2) Ask for ID of desired item
+3) Ask for quantity of item
+    a) Return error message if not enough available
+4) Update database for remaining items
+5) Return Total cost to user
+
+
+
+  RowDataPacket {
+    item_id: 7,
+    product_name: 'keyboard',
+    department_name: 'electronics',
+    price: 12.99,
+    stock_quantity: 40 },
+    
+//TODO:
+
+@ Line 63 need to-
+    1) Check if quantity is valid
+    2)Return Cost to user
+    3) Update SQL with new Quantity
