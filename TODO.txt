@@ -1,0 +1,6 @@
+[X] List Available Items
+[X] Ask for ID of desired item
+[X] Ask for quantity of item
+    [X] Return error message if not enough available
+[ ] Update database for remaining items
+[ ] Return Total cost to user
