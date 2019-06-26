@@ -2,7 +2,7 @@
 
 Run the app by typing 'node app.js':
 
-![Run Script](.\images\run_script.PNG)
+![Run Script](./images/run_script.PNG)
 
 It returns a list of available stock:
 
